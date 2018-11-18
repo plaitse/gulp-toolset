@@ -1,0 +1,13 @@
+.box {
+    &__one {
+        height: 10vh;
+
+        background-color: #bb86fc;
+    }
+
+    &__two {
+        height: 6vh;
+        
+        background-color: #985eff;
+    }
+}

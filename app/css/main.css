@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit; }
+
+html {
+  font-size: 62.5%;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
+
+.content {
+  display: flex;
+  align-items: left;
+  flex-direction: column;
+  min-height: 100vh;
+  padding: 20rem 10rem;
+  background-color: #dbb1ff; }
+  .content__title {
+    margin-bottom: 3rem;
+    color: #333;
+    font-family: Baskerville, "Baskerville Old Face";
+    font-size: 4rem;
+    font-weight: 600;
+    letter-spacing: 0.4rem; }
+  .content__paragraph {
+    margin-bottom: 5rem;
+    color: #000;
+    font-size: 2rem;
+    line-height: 3rem; }
