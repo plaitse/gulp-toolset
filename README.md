@@ -13,8 +13,8 @@
 
 ## Running
 
-At the folder of the project, you can run:
-- ```gulp``` by default to compile Sass stylesheets and JavaScript files
+At the rooot folder of the project, you can run:
+- ```gulp``` by default to compile SASS stylesheets and JavaScript files
 - ```gulp watch``` to spin up a web server, watch and reload the browser for changes
 
 ## Information
@@ -25,6 +25,6 @@ General:
 - !file.* to exclude a file from a matched pattern
 - *.+(scss|sass) to match multiple patterns
 
-To work with gulp 4.* see:
+To work with gulp 4.x see:
 - https://github.com/gulpjs/gulp#installation
 - https://www.liquidlight.co.uk/blog/article/how-do-i-update-to-gulp-4/
