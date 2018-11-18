@@ -5,7 +5,7 @@
 - Node.js version must be ```8.x``` and above
 - Gulp-cli version must be ```2.0.1``` and above
 - Gulp version ```4.x``` and above
-- To check gulp versions: ```gulp -v```
+- To check these versions: ```gulp -v```
 
 ## Installing
 
