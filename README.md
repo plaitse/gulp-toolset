@@ -3,13 +3,13 @@
 ## Prerequisites
 
 - Install Node.js or update it to version ```8.x``` or above using ```nvm```
-- Install Gulp-cli globally on your machine: ```sudo npm i gulp-cli -g``` and check its version using ```gulp -v```
+- Install Gulp-cli globally on your machine with ```sudo npm i gulp-cli -g``` and check its version using ```gulp -v```
 - Gulp-cli version must be ```2.0.1``` or above
 - Gulp version must be ```4.x``` or above
 
 ## Installing
 
-- Install the node modules: ```npm i```
+- Install the node modules via ```npm i```
 
 ## Running
 
