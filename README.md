@@ -25,6 +25,6 @@ General:
 - !file.* to exclude a file from a matched pattern
 - *.+(scss|sass) to match multiple patterns
 
-To work with gulp 4.x see:
+*To work with gulp 4.x see:*
 - https://github.com/gulpjs/gulp#installation
 - https://www.liquidlight.co.uk/blog/article/how-do-i-update-to-gulp-4/
