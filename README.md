@@ -14,8 +14,8 @@
 ## Running
 
 At the rooot folder of the project, you can run:
-- ```gulp``` by default to compile SASS stylesheets and JavaScript files
-- ```gulp watch``` to spin up a web server, watch and reload the browser for changes
+- ```npm run build ``` to compile SASS stylesheets and JavaScript files
+- ```npm run start``` to spin up a web server, watch and reload the browser for changes
 
 ## Information
 
